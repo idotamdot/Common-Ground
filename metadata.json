@@ -1,0 +1,6 @@
+{
+  "name": "Common Ground Global",
+  "description": "Mobile-first platform empowering people worldwide to dismantle propaganda, resolve misunderstandings, and celebrate shared human truth.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
