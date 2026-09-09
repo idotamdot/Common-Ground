@@ -1,0 +1,15 @@
+{
+  "service_id":"common-ground",
+  "name":"Common Ground Global",
+  "repo":"idotamdot/Common-Ground",
+  "protocol_version":"1.0.0",
+  "environment":"multi",
+  "kind":"product",
+  "capabilities":["dispute-resolution","shared-understanding","media-literacy"],
+  "data_classes":["account","user-content","location-optional","camera-optional"],
+  "dependencies":["symbiont-protocol"],
+  "public_endpoints":[],
+  "owner":"Sigilographics Digital",
+  "authorization_boundary":"product-local",
+  "cross_product_access":"deny-by-default"
+}
